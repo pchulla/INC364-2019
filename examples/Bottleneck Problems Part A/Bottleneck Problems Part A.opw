@@ -1,0 +1,13 @@
+[RESOURCES]
+Machine A
+Machine B
+Machine C
+[VARIABLES]
+Machine C Process.NumberOut
+Machine B Process.NumberOut
+Machine A Process.NumberOut
+Machine C Process.NumberIn
+Machine B Process.NumberIn
+Machine A Process.NumberIn
+Part Arrives to System.NumberOut
+Part Leaves from System.NumberOut
