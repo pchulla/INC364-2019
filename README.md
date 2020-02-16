@@ -1,6 +1,6 @@
 # Arena Simulation for INC 364 (02/2019)
 
-**This repository must work with [Arena Simulation Software](https://www.arenasimulation.com/)! A detail step about how to install Arena Simulation Software available here:**
+**This repository must work with [Arena Simulation Software](https://www.arenasimulation.com/)! A detail step about how to install and use Arena Simulation Software available here:**
 
 **[https://www.youtube.com/watch?v=hSE0P9VnKHk&list=PLkxUPMMVxEO4rVDPL9DolAv_g7Q7505s1](https://www.youtube.com/watch?v=hSE0P9VnKHk&list=PLkxUPMMVxEO4rVDPL9DolAv_g7Q7505s1)**
 
