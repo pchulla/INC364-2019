@@ -4,10 +4,10 @@
 
                                   Summary for Replication 1 of 1
 
-Project: Bottleneck Problems Part A                                  Run execution date : 2/16/2020
-Analyst: Phakhawat Chullamonthon                                     Model revision date: 2/16/2020
+Project: Bottleneck Problems Part A                                  Run execution date : 2/18/2020
+Analyst: Phakhawat Chullamonthon                                     Model revision date: 2/18/2020
 
-Replication ended at time      : 60.0 Minutes 
+Replication ended at time      : 240.0 Minutes 
 Base Time Units: Minutes
 
                                            TALLY VARIABLES
@@ -15,33 +15,33 @@ Base Time Units: Minutes
 Identifier                                  Average   Half Width  Minimum    Maximum   Observations
 ___________________________________________________________________________________________________
 
-Part.VATime                                 9.0000     (Insuf)    9.0000     9.0000         13    
-Part.NVATime                                .00000     (Insuf)    .00000     .00000         13    
-Part.WaitTime                               12.000     (Insuf)    .00000     24.000         13    
-Part.TranTime                               .00000     (Insuf)    .00000     .00000         13    
-Part.OtherTime                              .00000     (Insuf)    .00000     .00000         13    
-Part.TotalTime                              21.000     (Insuf)    9.0000     33.000         13    
-Machine C Process.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000         14    
-Machine B Process.Queue.WaitingTime         14.000     (Insuf)    .00000     28.000         15    
-Machine A Process.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000         31    
+Part.VATime                                 9.0000     (Insuf)    9.0000     9.0000         78    
+Part.NVATime                                .00000     (Insuf)    .00000     .00000         78    
+Part.WaitTime                               38.500     (Insuf)    .00000     77.000         78    
+Part.TranTime                               .00000     (Insuf)    .00000     .00000         78    
+Part.OtherTime                              .00000     (Insuf)    .00000     .00000         78    
+Part.TotalTime                              47.500     (Insuf)    9.0000     86.000         78    
+Machine C Process.Queue.WaitingTime         39.000     (Insuf)    .00000     78.000         79    
+Machine B Process.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000        120    
+Machine A Process.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000        121    
 
                                      DISCRETE-CHANGE VARIABLES
 
 Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
 ___________________________________________________________________________________________________
 
-Part.WIP                                    9.6500     (Insuf)    .00000     18.000     18.000    
+Part.WIP                                    22.962     (Insuf)    .00000     44.000     43.000    
 Machine A.NumberBusy                        1.0000     (Insuf)    .00000     1.0000     1.0000    
 Machine A.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
 Machine A.Utilization                       1.0000     (Insuf)    .00000     1.0000     1.0000    
-Machine B.NumberBusy                        .96667     (Insuf)    .00000     1.0000     1.0000    
-Machine B.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
-Machine B.Utilization                       .96667     (Insuf)    .00000     1.0000     1.0000    
-Machine C.NumberBusy                        .68333     (Insuf)    .00000     1.0000     1.0000    
+Machine B.NumberBusy                        1.9750     (Insuf)    .00000     2.0000     2.0000    
+Machine B.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Machine B.Utilization                       .98750     (Insuf)    .00000     1.0000     1.0000    
+Machine C.NumberBusy                        .97500     (Insuf)    .00000     1.0000     1.0000    
 Machine C.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
-Machine C.Utilization                       .68333     (Insuf)    .00000     1.0000     1.0000    
-Machine C Process.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
-Machine B Process.Queue.NumberInQueue       7.0000     (Insuf)    .00000     15.000     15.000    
+Machine C.Utilization                       .97500     (Insuf)    .00000     1.0000     1.0000    
+Machine C Process.Queue.NumberInQueue       19.012     (Insuf)    .00000     40.000     39.000    
+Machine B Process.Queue.NumberInQueue       .00000     (Insuf)    .00000     1.0000     .00000    
 Machine A Process.Queue.NumberInQueue       .00000     (Insuf)    .00000     1.0000     .00000    
 
                                              OUTPUTS
@@ -49,16 +49,16 @@ Machine A Process.Queue.NumberInQueue       .00000     (Insuf)    .00000     1.0
 Identifier                                   Value
 _____________________________________________________________
 
-Part.NumberIn                               31.000    
-Part.NumberOut                              13.000    
-Machine A.NumberSeized                      31.000    
+Part.NumberIn                               121.00    
+Part.NumberOut                              78.000    
+Machine A.NumberSeized                      121.00    
 Machine A.ScheduledUtilization              1.0000    
-Machine B.NumberSeized                      15.000    
-Machine B.ScheduledUtilization              .96667    
-Machine C.NumberSeized                      14.000    
-Machine C.ScheduledUtilization              .68333    
-System.NumberOut                            13.000    
+Machine B.NumberSeized                      120.00    
+Machine B.ScheduledUtilization              .98750    
+Machine C.NumberSeized                      79.000    
+Machine C.ScheduledUtilization              .97500    
+System.NumberOut                            78.000    
 
 
-Simulation run time: 0.00 minutes.
+Simulation run time: 0.02 minutes.
 Simulation run complete.
