@@ -8,3 +8,4 @@
 
 1. [Arena Simulation Software Installation](https://youtu.be/hSE0P9VnKHk)
 2. [Basic Process Module with Simple Bottleneck Problem](https://youtu.be/GMcV97ZZ1Q8)
+2. [Resource Configuration with Simple Bottleneck Problem](https://youtu.be/OPO4LVR8A5s)
