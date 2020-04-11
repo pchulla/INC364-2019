@@ -1,4 +1,6 @@
-# INC 364 - Manufacturing Execution System (02/2019) Repository
+# INC 364 - Manufacturing Execution System (02/2019)
+
+**King Mongut's University of Technology Thonburi**
 
 **This repository must work with [Arena Simulation Software](https://www.arenasimulation.com/)! A detail step about how to install and use Arena Simulation Software available here:**
 
@@ -14,6 +16,7 @@
 
 1. [Terminal Automation System Project Episode 1/2](https://youtu.be/IOilCwgv2Sk)
 2. [Terminal Automation System Project Episode 2/2](https://youtu.be/DorEVIrI0rQ)
+3. [ARENA to PIMS - Episode 3 (Special)](https://youtu.be/97bDeZY9gwc)
 
 ## IDEF CONTENT
 
